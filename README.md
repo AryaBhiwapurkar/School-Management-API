@@ -165,7 +165,7 @@ Public read access lets any consumer (dashboards, parent portals, reporting tool
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/school-management-api.git
+git clone https://github.com/AryaBhiwapurkar/School-Management-API.git
 cd school-management-api
 ```
 

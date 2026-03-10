@@ -500,3 +500,8 @@ All errors — validation failures, not found, permission denied, or server cras
 ## 📄 License
 
 MIT
+
+
+## 📎 Additional Resources
+
+- [Detailed Codebase Documentation (PDF)](https://drive.google.com/file/d/1aBVK-BhzBturc-lr8Y5VDkXoGYOJ-Chv/view?usp=sharing)
